@@ -29,20 +29,23 @@
     </script>
   </head>
   <body onload="init();">
-    <div id="basicMap"></div>
-    <footer>
+    <header>
       <label>Longitude: <input type="number" id="longitude" class="geoloc" placeholder="Longitude" /></label>
       <label>Latitude:&nbsp;&nbsp;&nbsp;  <input type="number" id="latitide" class="geoloc" placeholder="Latitude" /></label>
       <label>Position:&nbsp;&nbsp;&nbsp; <input type="text" id="address" placeholder="enter address here" /></label>
       <input type="button" value="map me" onclick="fireMe();" />
 	  <p id="useIndicator"></p>
-    </footer>
+    </header>
+	<img id="search" src="search.png" width="50" height="50">
+    <div id="basicMap"></div>
     <script type="text/javascript">
 		var useAddr = null;
 	
 		/**	track which user is using and display it.
 		*/
 		$(document).ready(function(){
+			$('header').hide();
+			/*
 			$('#address').focus(function(){
 				useAddr = true;
 				$('#useIndicator').fadeOut(function(){
@@ -55,7 +58,7 @@
 					$('#useIndicator').text("Using Lon/Lat").fadeIn();
 				});
 			});
-			
+			*/
 			
 			$('#address').keypress(function(e) {
 				if(e.which == 13) {
@@ -68,6 +71,10 @@
                                     useAddr = false;
                                     fireMe();
 				}
+			});
+			
+			$('#search').on('click',function(){
+				$('header').toggle();
 			});
 			
 		});
