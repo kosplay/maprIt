@@ -6,7 +6,7 @@ html, body {
 }
 #basicMap {
 	width: 100%;
-	height: 85%;
+	height: 100%;
 }
 input[type=button]{
 	background-color: #4d90fe;
@@ -31,17 +31,11 @@ input[type=button]{
 label {
 	display:block;
 }
-#basicMap {
-	width: 100%;
-	height: 80%;
-}
+
 }
 
 @media (max-width:770px), handheld and (orientation: landscape) {
-#basicMap {
-	width: 100%;
-	height: 80%;
-}
+
 }
 
 #search{
