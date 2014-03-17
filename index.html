@@ -36,7 +36,7 @@
 		<input type="button" value="Car rental" onclick="" />
 		<input type="button" value="Housing" onclick="" />
 		<input type="button" value="Entertainment" onclick="" />
-		<img id="search" src="leftarrow.png" width="35" height="50">
+		<img id="toggle" src="leftarrow.png" width="35" height="50">
     </header>
     <div id="basicMap"></div>
     <script type="text/javascript">
@@ -61,21 +61,12 @@
 			});
 			*/
 			
-			$('#address').keypress(function(e) {
-				if(e.which == 13) {
-                                    useAddr = true;
-                                    fireMe();
-				}
-			});
-			$('.geoloc').keypress(function(e) {
-				if(e.which == 13) {
-                                    useAddr = false;
-                                    fireMe();
-				}
-			});
 			
-			$('#search').on('click',function(){
-				showSidebar();
+			$('#toggle').on('click',function(){
+				var panel = $(this).parent();
+				panel.animate({
+					left: parseInt(panel.css('left')) == -panel.outerWidth() ? 0 : -panel.outerWidth()
+				});
 			});
 			
 		});
