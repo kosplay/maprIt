@@ -41,25 +41,15 @@
     <div id="basicMap"></div>
     <script type="text/javascript">
 		var useAddr = null;
+
+		//create marker icon
+		var size = new OpenLayers.Size(21,25);
+		var offset = new OpenLayers.Pixel(-(size.w/2), -size.h);	
+		var icon = new OpenLayers.Icon('http://www.openlayers.org/dev/img/marker.png', size, offset);
 	
 		/**	track which user is using and display it.
 		*/
 		$(document).ready(function(){
-			/*
-			$('header').hide();
-			$('#address').focus(function(){
-				useAddr = true;
-				$('#useIndicator').fadeOut(function(){
-					$('#useIndicator').text("Using Position").fadeIn();
-				});
-			});
-			$('.geoloc').focus(function(){
-				useAddr = false;
-				$('#useIndicator').fadeOut(function(){
-					$('#useIndicator').text("Using Lon/Lat").fadeIn();
-				});
-			});
-			*/
 			
 			
 			$('#toggle').on('click',function(){
@@ -71,25 +61,7 @@
 			
 		});
 	
-		/**	Enter key or "map me" button click
-		*/
-		function fireMe() {
-                        if(openStreet.map.markerLayer){
-                            clearMap();
-                        }
-			var position = null;
-			var addrVal = $('#address').val();
-			var myLong = document.getElementById( 'longitude' ).value;
-			var myLat = document.getElementById( 'latitide' ).value;
-                        
-			if( addrVal.trim() !== '' && useAddr ){//valid address
-				goolgeLocate(addrVal);//let google find your location
-			}else{
-				//did u just enter lon/lat....? Are you human?
-				position = lonLatSearch(myLong, myLat);
-                                showLoation(position);
-			}
-		}
+		
 		
 		function showSidebar(){
 		
@@ -99,70 +71,30 @@
 		
 		}
 		
+		function showMarker(){
+		var fromProjection = new OpenLayers.Projection( "EPSG:4326" );   // Transform from WGS 1984
+        var toProjection   = new OpenLayers.Projection( "EPSG:900913" ); // to Spherical Mercator Projection
 		
+		var markerLayer = new OpenLayers.Layer.Markers("Markers");
+		var myLong = 45;
+		var myLat = 23;
+		var lonlat = new OpenLayers.LonLat(myLong, myLat).transform(fromProjection, toProjection);
+		//markerLayer.addMarker(new OpenLayers.Marker(lonlat, icon));
 		
-                
-                function showLocation(position){
-                        var zoom           = 5; 
-			
-                        var size = new OpenLayers.Size(20,20);
-                        var offset = new OpenLayers.Pixel(-(size.w/2), -size.h);
-                        var icon = new OpenLayers.Icon('http://www.iconsdb.com/icons/download/black/x-mark-512.png', size, offset);
-			var markerLayer = new OpenLayers.Layer.Markers( "Markers" );
-                        openStreet.map.markerLayer = markerLayer;
-			markerLayer.addMarker(new OpenLayers.Marker(position, icon.clone()));
-			openStreet.map.addLayer(markerLayer);
-			openStreet.map.setCenter( position, zoom );
-                        //addPopup(myLong, myLat, "Long: " + myLong + " Lat: " + myLat, true);
-                        
-			//reset
-			reset();
-                }
-                
-                /**
-                 * add a pop up
-                 */
-                function addPopup(lon, lat, html, canBeClose){
-                    var popup = new OpenLayers.Popup.FramedCloud("Popup", new OpenLayers.LonLat(lon,lat), null, html, null, canBeClose);
-                    openStreet.map.addPopup(popup);
-                }
-	
-		/**	Let Google search your address and provide your geo-location
-		*/
-		function goolgeLocate(addr){
-                    //Geocoder
-                    var locator = new google.maps.Geocoder();
-                    locator.geocode( { 'address': addr}, function( results, status){
-                        if( status == google.maps.GeocoderStatus.OK ){
-                            var lon = results[0].geometry.location.e;
-                            var lat = results[0].geometry.location.d;
-                            var position = lonLatSearch(lon, lat);
-                            showLocation(position);
-                        }
-                    });
+		openStreet.map.markerLayer = markerLayer;
+		
 		}
 		
+        
 		
-		/**	You entered your own geo-location... Are you human?
-		*/
-		function lonLatSearch(myLong, myLat){  
-			var fromProjection = new OpenLayers.Projection( "EPSG:4326" );   // Transform from WGS 1984
-			var toProjection   = new OpenLayers.Projection( "EPSG:900913" ); // to Spherical Mercator Projection
-			var position       = new OpenLayers.LonLat( myLong,myLat ).transform( fromProjection, toProjection );
-			return position;
-		}
-		
-		function reset(){
-			useAddr = null;
-		}
                 
-                function clearMap(){
-                    //openStreet.map.markerLayer.clearMarkers();
-                    var arr = openStreet.map.markerLayer.markers;
-                    for(var i=0; i < arr.length; i++){
-                        arr[i].destroy();
-                    }
-                }
+		function clearMap(){
+			//openStreet.map.markerLayer.clearMarkers();
+			var arr = openStreet.map.markerLayer.markers;
+			for(var i=0; i < arr.length; i++){
+				arr[i].destroy();
+			}
+		}
     </script>
 	<link rel="stylesheet" type="text/css" href="style.css">
   </body>
