@@ -17,8 +17,9 @@ input[type=button]{
 	height: 24px;
 	text-align: center;
 	color: whitesmoke;
-	width: 72px;
+	width: 84px;
 	z-index: -1;
+	margin: 1.5px;
 }
 
 .geoloc, #address{
@@ -30,12 +31,14 @@ input[type=button]{
 header{
 	position:absolute;
 	top:60px;
-	left:-150px;
-	width:150px;
+	left:-90px;
+	width:88px;
 	background-color: #ffffff;
 	opacity:0.6;
 	filter:alpha(opacity=60);
 	z-index: 750;
+	height: 190px;
+	border: 1px groove blue;
 }
 
 #toggle{
