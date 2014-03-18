@@ -30,7 +30,7 @@
   </head>
   <body onload="init();">
     <header>
-		<input type="button" value="Food" onclick="" />
+		<input type="button" value="Food" onclick="showMarker()" />
 		<input type="button" value="Shopping" onclick="" />
 		<input type="button" value="Gas Station" onclick="" />
 		<input type="button" value="Car rental" onclick="" />
@@ -77,12 +77,15 @@
         var toProjection   = new OpenLayers.Projection( "EPSG:900913" ); // to Spherical Mercator Projection
 		
 		var markerLayer = new OpenLayers.Layer.Markers("Markers");
-		var myLong = 45;
-		var myLat = 23;
-		var lonlat = new OpenLayers.LonLat(myLong, myLat).transform(fromProjection, toProjection);
-		//markerLayer.addMarker(new OpenLayers.Marker(lonlat, icon));
 		
-		openStreet.map.markerLayer = markerLayer;
+		
+		var myLong = -77.68;
+		var myLat = 43.08;
+		var lonlat = new OpenLayers.LonLat(myLong, myLat).transform(fromProjection, toProjection);
+		markerLayer.addMarker(new OpenLayers.Marker(lonlat, icon));
+		
+		
+		openStreet.map.addLayer(markerLayer);
 		
 		}
 		
@@ -95,6 +98,7 @@
 			for(var i=0; i < arr.length; i++){
 				arr[i].destroy();
 			}
+			//openStreet.map.markerLayer.clearMarkers();
 		}
     </script>
 	<link rel="stylesheet" type="text/css" href="style.css">
