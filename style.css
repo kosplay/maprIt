@@ -37,6 +37,10 @@ input[type=button]:active{
 	outline: #00FFFF inset medium;
 }
 
+.active {
+	color:red;
+}
+
 .geoloc, #address{
 	border: 1px solid #ccc;
 	border-radius: 0 2px 2px 0;
