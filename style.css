@@ -17,7 +17,7 @@ input[type=button]{
 	height: 24px;
 	text-align: center;
 	color: whitesmoke;
-	width: 84px;
+	width: 90px;
 	z-index: -1;
 	margin: 1.5px;
 	outline: none;
@@ -31,7 +31,7 @@ input[type=button]:active{
 	height: 24px;
 	text-align: center;
 	color: whitesmoke;
-	width: 84px;
+	width: 90px;
 	z-index: -1;
 	margin: 1.5px;
 	outline: #00FFFF inset medium;
@@ -50,14 +50,14 @@ input[type=button]:active{
 header{
 	position:absolute;
 	top:60px;
-	left:-90px;
-	width:88px;
+	left:-96px;
+	width:94px;
 	background-color: #ffffff;
 	opacity:0.6;
 	filter:alpha(opacity=60);
 	z-index: 750;
 	height: 190px;
-	border: 1px groove blue;
+	border: 1px groove purple;
 }
 
 #toggle{
