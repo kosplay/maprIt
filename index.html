@@ -11,6 +11,7 @@
 	<script src="http://people.rit.edu/yxs9493/api/jquery-1.11.0.min.js"></script>
     <script src="http://www.ist.rit.edu/~jxs/classes/2014_Spring/Mobile/OpenLayers-2.13.1/OpenLayers.js" type="text/javascript"></script>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>//use Google Places API
     <script type="text/javascript">
 		var openStreet = new Object();
 		openStreet.map = null;
@@ -42,7 +43,7 @@
     <div id="basicMap"></div>
     <script type="text/javascript">
 		var useAddr = null;
-
+		//https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=43.083203,-77.675612&radius=500&types=gas&sensor=false&key=AIzaSyB552XRGHKDUT8xlocrn1nVJzS5u3WVqGY
 		//create marker icon
 		var size = new OpenLayers.Size(21,25);
 		var offset = new OpenLayers.Pixel(-(size.w/2), -size.h);	
@@ -51,7 +52,6 @@
 		/**	track which user is using and display it.
 		*/
 		$(document).ready(function(){
-			
 			
 			$('#toggle').on('click',function(){
 				var panel = $(this).parent();
@@ -66,7 +66,22 @@
 			
 		});
 	
-		
+		function loadXML(filename)
+		{
+			var xmlHTTP = new XMLHttpRequest();
+			try
+			{
+			xmlHTTP.open("GET", filename, false);
+			xmlHTTP.send(null);
+			}
+			catch (e) {
+				window.alert("Unable to load the requested file.");
+				return;
+			}
+
+			var response=xmlHTTP.responseText;
+			console.log(response);
+		}
 		
 		function showSidebar(){
 		

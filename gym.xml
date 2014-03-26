@@ -1,0 +1,20 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.08488,
+               "lng" : -77.67197
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "01efd8f8e18818264fdf3920ab74e223537c4fbb",
+         "name" : "Gordon Field House and Activities Center",
+         "reference" : "CpQBigAAADAuhrc-aOy-sSbAsjG4NzPGTo5lxfi1yROtWCQo5RttPaMwu8WNOHrTGcvdOCW0Ga-Cnqbx5vOSt8Orguex2AoLinkSvwqooDFZpP5PHtr5ceow9a3An1xXFT4zFQyVQHmm9hIm1ReHjzjtrWm2znZh6eVSJgGn6EtP-euqo11o7MCkO5oHmxPL40-FuiTZzxIQiZEH-BfovvfMhhorx26-sRoUtIzd2WYwRVUjjg1K6qrjdqdEiaQ",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : ""
+      }
+   ],
+   "status" : "OK"
+}

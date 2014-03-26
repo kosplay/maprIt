@@ -1,0 +1,31 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.082628,
+               "lng" : -77.68079299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "093b9383afac776442993c71cc3f81ac02fc89e7",
+         "name" : "Advantage Federal Credit Union",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 816,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBggAAAB70fpNK8WPE14uF_3YeWfoqyJzwUWLL05BIfl2VMkDPIrZUY1WIW4eTGMVolzJPCZRwDCTOIN6SEs70p2oBOGUYRTXAMQCxN7XsP7Ggw5XuEY34UoXUBZD2aWIlyEErDtMFC5c8FD_2qNKQ6sdLXhbGiAZjChhKLanWeEO0EV4-0-XM_-QazrGrov6_kmjU3RIQ_h7fIwZ5wrdZyGpsroQu4hoUbeOh_mH-0r1eEXpZi2Lbzh6z4rQ",
+               "width" : 612
+            }
+         ],
+         "reference" : "CoQBfwAAAC_I2OdOqxNo7z5g_096TPPdgkNKBaIFZwuFJ_VRhdqfLLp_Hgwv5IypbbDR6mS5m37AY7TsRSAZyOs_n_5OauO8MC4L3KDTt8nHT_bj-mJlv3ss4R7abDoHv714Fu8z7kuZ39BhK1nooJ37IwKmJJbLcYGT-FprHrpG-1QlddXGEhDfw9ovezz4koGRByhZaT81GhR2GogXgPTczasK_TRrZs61JH7RLg",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "38 Lomb Memorial Dr, Rochester"
+      }
+   ],
+   "status" : "OK"
+}
