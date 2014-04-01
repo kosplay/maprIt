@@ -30,13 +30,12 @@
   </head>
   <body onload="init();">
     <header>
-		<input type="button" value="Food" onclick="loadXML('food.xml')" />
-		<input type="button" value="Shopping" onclick="" />
-		<input type="button" value="Gas Station" onclick="" />
-		<input type="button" value="Car rental" onclick="" />
-		<input type="button" value="Housing" onclick="" />
-		<input type="button" value="Entertainment" onclick="" />
-		<input type="button" value="Reset" onclick="" />
+		<input type="button" value="Food" onclick="loadXML('food.json')" />
+		<input type="button" value="Gym" onclick="loadXML('gym.json')" />
+		<input type="button" value="Bank" onclick="loadXML('bank.json')" />
+		<input type="button" value="Gas Station" onclick="loadXML('gas_station.json')" />
+		<input type="button" value="Car rental" onclick="loadXML('car_rental.json')" />
+		<input type="button" value="Reset" onclick="clearMap()" />
 		<img id="toggle" src="leftarrow.png" width="35" height="50">
     </header>
     <div id="basicMap"></div>
@@ -68,7 +67,7 @@
 	
 		function loadXML(filename)
 		{
-			alert(filename);
+			//clearMap();
 			var xmlHTTP = new XMLHttpRequest();
 			try
 			{
@@ -97,7 +96,7 @@
 		function processPoints(obj){
 			//layer for the markers
 			//var markerLayer = new OpenLayers.Layer.Markers("Markers");
-			var markerLayer = new OpenLayers.Layer.Vector("Overlay");
+			markerLayer = new OpenLayers.Layer.Vector("Overlay");
 
 			var fromProjection = new OpenLayers.Projection( "EPSG:4326" );   // Transform from WGS 1984
         	var toProjection   = new OpenLayers.Projection( "EPSG:900913" ); // to Spherical Mercator Projection
@@ -108,11 +107,11 @@
 				//var lonlat = new OpenLayers.LonLat(obj[i].geometry.location.lng, obj[i].geometry.location.lat).transform(fromProjection, toProjection);
 				var lonlat = new OpenLayers.Geometry.Point(obj[i].geometry.location.lng, obj[i].geometry.location.lat).transform(fromProjection, toProjection);
 				//markerLayer.addMarker(new OpenLayers.Marker(lonlat, icon));
-				var feature = new OpenLayers.Feature.Vector(lonlat);
+				var feature = new OpenLayers.Feature.Vector(lonlat,{description:obj[i].name} ,
+            {externalGraphic: 'marker.png', graphicHeight: 25, graphicWidth: 21, graphicXOffset:-12, graphicYOffset:-25  });
 				markerLayer.addFeatures(feature);
 			}
-			console.log(markerLayer);
-			alert(markerLayer.length);
+			//console.log(markerLayer);
 			openStreet.map.addLayer(markerLayer);
 		}
 		
@@ -128,7 +127,7 @@
 		var fromProjection = new OpenLayers.Projection( "EPSG:4326" );   // Transform from WGS 1984
         var toProjection   = new OpenLayers.Projection( "EPSG:900913" ); // to Spherical Mercator Projection
 		
-		var markerLayer = new OpenLayers.Layer.Markers("Markers");
+		markerLayer = new OpenLayers.Layer.Markers("Markers");
 		
 		
 		var myLong = -77.68;
@@ -146,11 +145,29 @@
                 
 		function clearMap(){
 			//openStreet.map.markerLayer.clearMarkers();
-			var arr = openStreet.map.markerLayer.markers;
-			for(var i=0; i < arr.length; i++){
-				arr[i].destroy();
-			}
+			//var arr = openStreet.map.markerLayer.markers;
+			//for(var i=0; i < arr.length; i++){
+				//arr[i].destroy();
+			//}
 			//openStreet.map.markerLayer.clearMarkers();
+			/*
+			var thisArr = openStreet.map.layers;
+			for(var i=0;i<thisArr.length;i++){
+			console.log(thisArr[i]);
+			features = [];
+            features.length = 0;
+            thisArr[i].removeAllFeatures();
+				if(thisArr.features){
+			alert('blah2');
+					thisArr[i].destoryFeatures();
+				}
+			}
+			*/
+			if(markerLayer !== undefined){
+				markerLayer.features = [];
+            	markerLayer.features.length = 0;
+            	markerLayer.removeAllFeatures();
+			}
 		}
     </script>
 	<link rel="stylesheet" type="text/css" href="style.css">

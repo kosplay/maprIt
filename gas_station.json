@@ -1,0 +1,197 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.09273,
+               "lng" : -77.63285500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a2aede5592b4f5779e6d04a3ef2d2312dd089cb9",
+         "name" : "Delta Sonic Car Wash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "rating" : 3.2,
+         "reference" : "CoQBdwAAAJyufc5zhFH2EKmT0hWkDmxF3arr_457jD_yR2KIj61T7jJh-NhTytKzDcoLYo9a-qAmupZZZ5OgmyX7kxEBE_TQnVv824_bEEjrX-l-d4XnyLHrR0Dh7p5Niu2sXMJz63iKBAXrf94yNsejtHeWWrN35BxcolOA4r_f5tSPV78UEhD4Lm4PRfEhZSO58hP2AN2tGhQ1o-jwACIb_bUeNxzL1Tq8tEGIhQ",
+         "types" : [
+            "convenience_store",
+            "food",
+            "store",
+            "car_wash",
+            "gas_station",
+            "establishment"
+         ],
+         "vicinity" : "2970 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.092279,
+               "lng" : -77.653088
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7189bb5068644a4d53667ee9432dcc015114ebff",
+         "name" : "Fastrac Markets LLC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CoQBdgAAAFKjV2zLGiTQl7KQlJmRZ5V9ZRvfurhoC1xBgzk1ccYdqQAqUdBNbqQBue0fVHwmrqZcM0QZq_5xsbUJJq9UmkGEJniwMEGMTzBNeHzruUg3dsARA-iKB2daicCyDoK9lTCtWTEfQi8WcFvIdCqEqnWdjZj4sPkoA3PEQuasPfIMEhC2S8IM02fwxvs1_S4ij14iGhTvJyy8YOOhSgJqLzD4uz2eIwxNug",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "291 Jefferson Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.093399,
+               "lng" : -77.65759199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "9b9031306c85010954cea5120c6504362aa0173f",
+         "name" : "Hess",
+         "reference" : "CnRnAAAAURpB74W4vVVx1BbW41Vq_NuBdYOMJgxHvFu9IIQWC_UGTHIarm4v4MVKeim8s2ljYYf5S1Jt45ebPCsfmnktpNkwicZBoLh9QQp0gI3eXUQLoF9-Bi7SrL2OXObjAg-QvfZgH3verXW_0QZOgdVHChIQ4BCYv7E7jzdpF-whNdlZhxoU7LzysANkfUFUQ1ogzZ2edEyUO-8",
+         "types" : [ "gas_station", "establishment" ],
+         "vicinity" : "222 Jefferson Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.089764,
+               "lng" : -77.63582100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "13ad33632b770243705258b3e1c061496a5ceff3",
+         "name" : "Kwik Fill",
+         "reference" : "CnRsAAAA0PLVy7_321f5PTA8X04ZrAC_JkzpQxUd91cF_6RwLqaRKiBIRRPensEIJ6FvXkNLMEEkiwkJkYjAcUV4ySq2qXIzu40R9-R2ulwUZ1NcSPikj8wzCwn58JWmb1ZV04Zz0mbqkML8q5Cr0lzrM0HubhIQHP9qPrsDpb8uOWu8OKRzhxoUXghorGRRJqWSNf3aWT1vV5LvTWE",
+         "types" : [ "gas_station", "establishment" ],
+         "vicinity" : "3093 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.068445,
+               "lng" : -77.645943
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bd1d95a5795a781f9d092e91d60adfe085f46c6f",
+         "name" : "Fastrac",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRvAAAAng25gK0LQnQOpkjXdkc-h1nac-0zzgM7YUaNbqVXR7n8i-PEAXOwwE4mI26IhuPLMXh7lBAwF85ssx14p8tYvoh43bNKy0EiEkC9e9w8v5JuycC1k4H0Q2kDkcVD63VSmWkkFf1WLOP7JNAm0JgtrxIQULebVKDgWfQ_jsBb-GoPVBoUM5OrBCBAVNlJVHrivJ7lnh4BsBE",
+               "width" : 640
+            }
+         ],
+         "reference" : "CnRpAAAA2UJ9pFEiJ02UiolkCrXgWAQUuYxOcBFkA6jZE0deiOA6ckn0LFpOOXFefChKromHIwbjcOh9qzHsbxTEtlMFWNqlZb4zT5htfhQnPLodwl3xYJtoK5QR8jLDFWK30KacT1-JWg1NCTicdaUYfEA4ExIQaTjz_waiG7M5S1tjR-k65xoUzLOxAo63NU03BcQe-jN4RhLmSqg",
+         "types" : [ "convenience_store", "food", "store", "gas_station", "establishment" ],
+         "vicinity" : "4200 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.114239,
+               "lng" : -77.62282
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9af7cff5b78042e0a4f091c4f7ce815a1a9d6c69",
+         "name" : "Red Apple Food Mart",
+         "reference" : "CoQBdgAAAOc5jhoVW1cJFc-lnBO-UF10NRB5DlGvbTj-dBRXe3NVVccjxmXbQsN7YrRbE7nfCUEqZ_0eRWasNER7h_MqERWxUeBw-gAtSn2eSbqgs27TgNCAwrX3_rlTGENVdEG-Db0BzYCvWkGO9XZG9p50rFpvXh0PRC-n7ev2umpID2mAEhDgTjS1fb93SgnKzKmctpurGhS2S5MzVRG_99suzQDRGPNxhOQx-g",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "1835 Mt Hope Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.120603,
+               "lng" : -77.713072
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "b86ee0d1651ad6a9cec34f92e8d8c39f207f140d",
+         "name" : "Mobil",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CnRnAAAAWQJkVBewHRb1hUArhE0yFdUlsozdFHnlXlk6YsTTVU8RqYYYbca9yVIJNcaAa3DGHlMIPkeTjPHm97bP2aviHGJJaJjKMN7PKSAsIhFZBdAdO1AeJLQ5x9u__IL6ivgxBwUaTiMem-lr_ZUJpAzDyRIQ4qzOmwFVZcXQcxPisfWq-hoUl-Ks672poMLwxDBqb_mQxjlxFw8",
+         "types" : [ "car_repair", "gas_station", "establishment" ],
+         "vicinity" : "2765 Chili Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.079222,
+               "lng" : -77.62833000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0a11475a4a1c86e1a39f39560acdad36b0b86bc7",
+         "name" : "Mobil",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CnRoAAAA0jpUs5nTpzRVzPc28Y5EsdNsBeso2Sw8_ksTiKMLzOudjQthzKTXxM43V76bOCqVzRHJyG3rdZfK-n-JR-zLQr1GjRTIhJSj51EE2D8V3tGnqveFY1Vkz29C_I3HkMb4EDl6Z8IVdIZodlOfuA_UvRIQUxm9HHqmQUH7WDNXDHZ2hhoU0eheNu6qdNdV4qCI38z3HgYONjE",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "food",
+            "store",
+            "finance",
+            "gas_station",
+            "establishment"
+         ],
+         "vicinity" : "1775 Marketplace Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.059385,
+               "lng" : -77.644977
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "be7853adb7dde51e881991b21a31352b5a39ee5f",
+         "name" : "Lehigh Sunoco",
+         "price_level" : 2,
+         "reference" : "CnRvAAAA5IjfObzFXpTcSA_2MTe3HacmAT5poerMmrR8pFBIbGTPmw1fbI_aqxP1XDpKq8cXZ4E2of26u3MLAmKgkniK28KsGZg819oDJdhc1-9-HPICC-lmEkby5WOMWmJPfRi0dPB-QfWD6GIAH6vn5ylZ4xIQ7ZfJIc3DcnKGsGvIoB5kehoUbyDlZuXWhdgwAE6JJnixQmHCdKM",
+         "types" : [ "car_repair", "gas_station", "establishment" ],
+         "vicinity" : "375 Kenneth Dr, Henrietta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.041096,
+               "lng" : -77.71455400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "7361afe80648e7921cca94d8e22d408802318833",
+         "name" : "Mobil",
+         "reference" : "CnRnAAAARSigs3JSOa5zS7JbZsKcWsM77DdiVGX3aWWQvnO8GsrhIMMedTTMVre7T9VHKcWIjPB3dQ5zdTjqA7sKuLH0SmI3Iizl-9ZGcQXN5THaiJ9hPOqM1CFmXiLZXXM6ZTsUGE5Tms8MHtmYQPsKqK8C4BIQhxy-V-kbYZdvSMgZy7e4xhoUNgtDexKmpLud6Posb5c1CzwkqSw",
+         "types" : [ "car_repair", "gas_station", "establishment" ],
+         "vicinity" : "20 Erie Station Rd, West Henrietta"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.08843,
+               "lng" : -77.644521
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "3995b494269ff473da287f5504755cba2f24541f",
+         "name" : "Planet Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 431,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBcQAAAByYCCfLAZfo_JwHqEj2htQeZI9uvGwHpdOwMTJFFKM57ox1o19NUWCVKYNdaFP0G0faTVQe3HYMjfjGKW_-PR7Lf5NgO2eOSC60nxpeMr-qksqhTsEr_N-ocU6fls0yzr_EC32P4XwTWLp_G0nHtZSQERh9awIgR4ycfq2ZErLUEhCjtwZoR83xK4ForslipWkqGhTBedak7BIjX8JXU5Ux2P6SqNG6ew",
+               "width" : 575
+            }
+         ],
+         "rating" : 4.3,
+         "reference" : "CnRwAAAAUf567kg-u3bacwYU21GXLZ_ajPc4ArU6GI6RKy_JZY4qWM02YQx8FdhCBuHQWtOROSH30aBaJpVQ9VLP7mf8-vr7t4S_d8F1wS6F1J_AspzIQffUCeB-oo1JdhFGDv_18MrB2X0RlbYIZi5sDjRmixIQoJBURos_IhKIFl4IiuB3_xoUk7lfrFfb3xbcTH8yJth0WBa5sNw",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "3333 W Henrietta Rd, Henrietta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.117183,
+               "lng" : -77.658321
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "4433f6f437f55b44510f46bb592fa6a7daf10838",
+         "name" : "Spunk Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 206,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABhVpZ1n5XV1AicJwLljyZgPVEERU_iNpDdx_jtqml5eA4kLDkvUc36MhOx0eItGRIOqbeDM0BBzgkNDNStyZTssPGuUiQHFPVnx_sWxMSRIoCLkzWYWCrdI5P3ydm0u8xXekeUB4qDAyKkJEdvNiTBIQxo6gqrbwPfm0rHvJ13LRZxoUoHbdPTd7dlefYznvb8ISwuXdnQM",
+               "width" : 521
+            }
+         ],
+         "reference" : "CnRvAAAAl5ZVUYwWYN3ptU8iMGRFgYLZIksC4spFcwGeVbPgRDdjnBCPj6QlTLsWhl4GF2x3fYXk-sO5Z3V_Usg7NcZB3vuruEKcAcQs10hBWEqIv4QJA4boZtjvBhvIklJCN3GlRInhq8ad99-NYF_G7hwwuBIQr3-AEqBuJhrafzcAcCWUeRoU24ZG4gaeXLNoPL2dsZWHN0QaWF8",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "1250 Scottsville Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.091585,
+               "lng" : -77.65704100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "aa2e3df119f90ccd22941ce6e45f6eb326cfade1",
+         "name" : "Park Point Club House Gym",
+         "photos" : [
+            {
+               "height" : 275,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAnLE3-z9crBYb3QD7u9r8ulTqhe15wgs-3g94JsjPCeQY4ka1yFaOH0C6hsBYxupLjhHHHsSUrva9bZSGuyPLLCZ096e48y5xwGWa-opzdb0vBwNhXVfYXU6ki38YC-5BY2fq30POKA_mXWndz2m1-RIQMhEe9TMfee2moWe7Hgfo0RoUvHFx4S0giEBhN64BAoAVLx57Gvs",
+               "width" : 414
+            }
+         ],
+         "rating" : 3,
+         "reference" : "CoQBewAAAHh354Bf-Tw_XkFL3-eStyso0rqtC4oBpvHCA1L2Dp6X5an_9iikyCO2C8T4_0MU5mnpDuNda3emtrTfKsGV90y8YGjvQHYg_bqEo2sKJIUrLityly-AYy1eCNPdcNm--Z5AsBhhOBgLgl_VGyjcIc4xGNz37UFZtQyp3SN3KB6QEhBDWqX9hUGV3cJ9Ge1Qh4HPGhT9SLjVH8YyM2k4Ybkd8US8LB91Xw",
+         "types" : [ "gym", "health", "shopping_mall", "establishment" ],
+         "vicinity" : "400 Park Point Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.08488,
+               "lng" : -77.67197
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "01efd8f8e18818264fdf3920ab74e223537c4fbb",
+         "name" : "Gordon Field House and Activities Center",
+         "reference" : "CpQBiQAAAG3LNyYYm9wvYOckOVPlGVJhNMxfotxM88YkrRc_TZjEet5KE9paEOmuif4Thp_JMGoZ0XqCJ-2qxGiEjddsl1rmPxRPqu4KT0QRsVxFIm9WGn7vhIqstEKMpcKrZfJK7IjOKm0ODisZS5kRShCytLdrnZ2YAwXe-30ZlhHuaO7NaR5DfTJZe8O5t1-phcTaFxIQJiYyKNp4ZtInfcKrnxachBoUSYhEV6EZuYOkn83ugEoRZPd3luE",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.083132,
+               "lng" : -77.635211
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "105f04ff63cefeb20df81ee5f7be217f1f4f0b75",
+         "name" : "Bounce Aerobics",
+         "reference" : "CnRwAAAAAhQArTbS2QbkCueOdmFeQQKgxtKZMVjdX4172o33bA5wIl_RpOqIBbrasgLZktSAINYmy1VHfJ1VyDNqtMGjQjpqj6Di7R5blYopdkiqE-HqL-8qs9M8BN45a8-ou695vklsBOC6hmcuExAhwc0esxIQnme-pSO25comJ5TyZU_SxRoUmbG7vfY_5n9EECRR5Nq-iZUuVSQ",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "1 Marketplace Mall, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.083191,
+               "lng" : -77.695553
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+         "id" : "c75394a318c3231a43b1090ee903accc854850f7",
+         "name" : "Forge Fitness, LLC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 539,
+               "html_attributions" : [],
+               "photo_reference" : "CpQBhQAAAB64SXOidQhkj3P95QDtSxZsu7aybTyhBiSe37mAChBTwkRCY4qU-sbz0UUp0dZybWVYxxJ5TJ3wVP8R_RX_WhMs1133yjmyFHxEd75PiG9O9wza_8aIyPEdAwbseblmxeJCqLESKT7-ExlD64S5IHyDfYXPhtJ7yF35YIb1AAwQqnMI73cjpXxUxFi6z9g4UxIQH9F-PoYHoMgLaAiCq4qjUhoUZfoxJcpykY7PW-NVfOFndGAHywg",
+               "width" : 538
+            }
+         ],
+         "reference" : "CoQBcwAAAI8AvYRsE6NsgW-UI4I5TOgTCTnS1t-88sA-IN2mU3ja3cF95FwYIUhuxsfNgrj2odtwmQlAoQukytFrw-DIJLTB2OtqX016XhVYSvDpDtZ7g-GqaHWcobf9E0zZM0_j5_ZPmic5xnEOtCmaKhypDM3M55w8FIRcJPt-IhM60D18EhCv_gZyM6MOIiT6T7rAVAiOGhQ6gw97HlhRwsQYsKlzno1z-taAkw",
+         "types" : [ "gym", "health", "establishment" ],
+         "vicinity" : "1861 Scottsville Rd, Rochester"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,278 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.101638,
+               "lng" : -77.62899899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+         "id" : "d421e470730934e4d8e8ebc8fdc99e76e7d488f8",
+         "name" : "Cortese Ford",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 155,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAud5O72OayuKv8Yx6bqmOKRjobqpVIUqcqrlvFuyuR6gn7CW-WJL5CAT1BhweE54mdOgBvC_1hbjkATqZgcCbAlqJlAQ1SzNkv-naKxYArmHp1oE2ArAcHaTLe4k2ANqBRa6zesJciZ6wpKn4ZLQu3hIQ0eC-clmpUt4_RBsdgegTpBoUaz8st8zonK6SCRXF96FO9jl9lL8",
+               "width" : 220
+            }
+         ],
+         "rating" : 3.4,
+         "reference" : "CnRvAAAA8q1ITlW660-YwpdA6JMXOvhvxOJ18FifdZYyLwP6qoJxsETuCeiXRemWnQSXfhxB9x9tNQh3ils4gY6QfHnkEHBwBijA-Yjlq_nCuCawl5N6_tumizhjUwq3gNQKvbvLQjYO2j8O4WiOx17txw8bJRIQPb28yhMmfCRb8NhRPQ6N7xoUXA7y3vKtvgS2DXc51JQBoxGN3bw",
+         "types" : [ "car_repair", "car_dealer", "store", "car_rental", "establishment" ],
+         "vicinity" : "2500 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.08157,
+               "lng" : -77.63352
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "10b9c45b70de51cbc4c3074e9baf46b054357b71",
+         "name" : "Budget Rochester South Rent-A-Car",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CpQBgwAAAIpPJoOm6bniKvplbuIZg2Cr15zD0BDjXLLiWFnkl1OUXlzEtuUE92MrDfaljT2m8OLMB_nxPAcT3A1m2itokxvVW9Pode4TMto8IxYHblgJmMPBoNM7kTi8GhSjPpqStzYatJD23ZQ0MtaAT3DewSHcCAKGqRgZwJGOBvQ85EQ8rd65A-sDzoNKLdLGDtbhoBIQavsNMRNr48Rk2ZrEE49TyxoUDjnVLJIADlNTWGOAOuN4IhugVGs",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "10 Miracle Mile Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.103333,
+               "lng" : -77.626644
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+         "id" : "e7c0d56484f44e29636eb49ca64d74a4552bd76a",
+         "name" : "Cortese Chrysler Jeep Dodge Ram",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 155,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAARVy5MAR-1eMK8zabZ44g8pTncSPnSWkFXkPWosYyQ2r76HVWK79xvrWQn0FgV8kZqLYuI0A-lCKjlRo4ZViCCOEJlVzmqitlP5mEB7C2EJGyYSCXcsLjdBOI_6T6e-asjYuh5OZZJTdLmcmkQ-NbZxIQYs5_SgE2unUmoZAydsCRyhoU-V0Xs2lNqaF1e2VrLJeQtb6K1D0",
+               "width" : 220
+            }
+         ],
+         "rating" : 4.3,
+         "reference" : "CpQBgQAAAECajHcFagSvfuOIT8cHsA089I68M9GqzXF_mpUW0Cfp8YhMC-mXiYlSoU2wbKl9I2tP_C-lKey3ebKEssS8eehZhGxh4mQIbDjfsBT2itwC66aJUkNP9TTRmdFFXPfmfWaFdwBdIfOwZiOtghvnvWld1LUmJWzLK9NiueKRicpMoetwBXizcXXm9jlMZhcaSxIQymoz9Fmsl4iWg8v9YKVLjRoU0nmfBjh-3yfeSvurtSF8QWlHO0Q",
+         "types" : [ "car_repair", "car_dealer", "store", "car_rental", "establishment" ],
+         "vicinity" : "2400 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.127911,
+               "lng" : -77.664793
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4cc498503abf4978c2300771eed5b22e48439792",
+         "name" : "Hertz Rent A Car",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CoQBcwAAAOIg-ReV__iN_-v9pI5Vqfg655Qw-phFX4nJNsVVPpMgXdMfSoO8GnV2Bmvwxr2uoVIqet8wyakvH3-ZeFEvlQGdka6-kiWCHjCggI86hv_BxN_EESz0HcG_TmVStq2gYZiKnz0uK08xmtDBDgIW26c67A_YWy91gtvfS0zh75yFEhBuowS7Y4Cf_JvS5IDVo3baGhT51RfnMiL5p2IoqPjTWVr2nsMVKQ",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "1200 Brooks Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.080837,
+               "lng" : -77.63360400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "995608b4c71009d767c58250e4f97dff6c74ce30",
+         "name" : "Avis",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CnRmAAAAGa10UUfMl5g2BQh_bxedm2mG69cmZXqP2xCzYMota8q8a0e_uTO8HSHSYO5vPJ6WT5LKcQbY7YC1NclLbu6EY3aqrnNhjBrzmQ4AQdQzwY9eUcxMsKDJ2SqDVbFxRZtLMotd1AtIQcCjpD574YGaGxIQJD3uWfzZbuH5YrJNuXwhFhoUPmMhGUnXlrfCAgiYcbriJEXw304",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "10 Miracle Mile Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.103333,
+               "lng" : -77.626644
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+         "id" : "aceb0133a245545ceb8f31e577bbd37b038183a1",
+         "name" : "Cortese Collision Center",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA1B6yU8gidLaCyPQ9Q-y2HAUAVJoBP52_xvcKcCT3_JWutK2NUDnDtfN4hCmJY2bA8AUFj1nprWklzQIIiEkO62S0Z5e0kOlAQI2OylIcwyoXFrdq-nCq3HJCOGOU76Qzv27E_5YWuk8gwarSJysE2hIQ6ptqrQy29B5Ne3EWr-c9EhoUFrjYKMF5ANilQHmMcwF8xwH6DHQ",
+               "width" : 720
+            }
+         ],
+         "rating" : 4.9,
+         "reference" : "CoQBewAAAHp6YQIozfao3M2rSaRmFe5YsuAQz5V6OuhAmncPi0wOYhpmaP94DSF6lA6rRrKvpK7kYL9vvzI0hJvZ7lli0OGckuzald3f-vg2eIqhEa_oFqZyNAGoXNnKk18pvKjIQE-d-_0TDpV7i8wFHxWri0VKvaf4IcDddpXLsqYyg6iXEhDPPIn5dFhPGY86WpgrESONGhTmEkP4yaG0GO7nKbrC9kOktuFLvw",
+         "types" : [ "car_repair", "car_dealer", "store", "car_rental", "establishment" ],
+         "vicinity" : "2400 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.102209,
+               "lng" : -77.627803
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+         "id" : "3ef52efa003076a3ab19b103312c6eb1129aa18a",
+         "name" : "Cortese Lincoln",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 127,
+               "html_attributions" : [],
+               "photo_reference" : "CnRmAAAA1C6atKOIFW2Z-6bsn4K823AEL7Od_DLc7-CniHQGF54dX_Enq9tmm4L5LboVFizVRlww6UAvBEpdjrcSe_H8GYR5J5U7nk_YzbMw7z8PHDxac2FdfqPkokas5vi0yF6FzB8ovIMazdAFuyppSwmtZRIQ2EaLiIilXadseHM6NIwl9hoU5Cm37yFgr6cEOObG8LAtXBEpf3c",
+               "width" : 194
+            }
+         ],
+         "reference" : "CoQBcgAAAF7RZTaRmBjaLKSajYLkkDhD428Cqt_HsqafKr6PHwgsa5pwwTt9yl6kvAHCJhJvhiL7YwmpVsOerPUO4hy5j8Kq82pXZtbGeiPMD9HTLGxJuXCBRnOzVIjDBiari-oZHS0d3Z5ZrBzplnJxrlZRivRWEyMy98Eki-2U80MkMv4-EhBG8yKofzKJSh9iYg6SQpZwGhRvUigD-OwMCxCbBShvoo4u2cfmBg",
+         "types" : [ "car_repair", "car_dealer", "store", "car_rental", "establishment" ],
+         "vicinity" : "2452 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.12776,
+               "lng" : -77.66578800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "32051598c008a60098c62123e414d3dc482126ce",
+         "name" : "Budget Rent-A-Car",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CoQBdAAAAJqQIHxptabPhr8Ur2k_iGT3wNxJ5bZK6ZAGdA8-604rkc6TUrP0ygldQTsC3GbloX6LDhEz51GN8iblQkzr4U3sK-e9C8yc_JaSKHJne3opkeUbQXT27yEJRN0-rgjjOGLNdGICyWOij5TkZkPH5Ki2b4OqnmUb_VqmTckLueY9EhB1S6tTIaCm_qaVCP0BxxcNGhRgGZqAtWfw44n5PuqkgzhesrYC0w",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "1200 Brooks Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.070394,
+               "lng" : -77.645966
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a97453a9a48912539ec53b0b49386346b89ff2f2",
+         "name" : "Enterprise Rent-A-Car",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 61,
+               "html_attributions" : [],
+               "photo_reference" : "CnRoAAAAGSwz9Z2-7CJZZfeaKFanZhFY5mNyOUoY5fDn-fA2KSTLnN-0c6JOijMqzVXSroH5JivuoJNIqZFq0L054Rrf4Pt2ZRmnnAG6Ow37l5NhqCSdR2yKUj6uMbkn2gimeTF0dS9dAQTjT0_faJJVxmz41hIQH3nBSHzkjViAt8sdpIGDfRoU6pVWjadXopoxUTdadaXomz6Ngnc",
+               "width" : 85
+            }
+         ],
+         "reference" : "CoQBdwAAAMNh-32Uro9O-eluZvIgw-aYk__zB4d94_YJbZKe8Yy85mtwL_g3b87RC3eS3uGZBWV3NFy6aKnSFCBMDzYhxTd6DP2k4kvznD3h0mytuMIARYPrEUUHDcy0L9ksx2DrKLHX2UD7yWu8yLzQTFttvdYGldAP4nFPQstb0Ujm1jBjEhCGAF6Cbgf2naKfPPFAyRIlGhS3pQ1k6QQaAqtEHvpwBJ0QtkfU8Q",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "4111 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.127824,
+               "lng" : -77.666042
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5f6f77e9aab75a55d760a7f6b2c3854bafca9461",
+         "name" : "Thrifty Car Rental",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CoQBdAAAAKE-_YoDsCXYV19T-YoijYwbYo3UDax2SWsADbpehx8hqPqX5PYsbDq-OEHWkqvijHOw1Dfow892R4_wijUvh5TBjN3HkKJjrz1DfqxCmLkAr9IQRMnts8P7UVQp6PR5SIlQavSlcjRJrAXLJ85R_gnY87q652U_E_IOPsCBYZGREhBEUdphqELqcwOoou-sWFpVGhTa9wXmABQ6rZlLNICFoPYk2hQbiQ",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "1200 Brooks Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.059011,
+               "lng" : -77.652699
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d65f8700589e865d35d94fd066f30d82aad5bf6b",
+         "name" : "Hertz Local Edition - Henrietta",
+         "reference" : "CpQBggAAAM9ozcUYwGrGcFa-dvUp7RchT3tNZVYFfsYnsl3tHDajh18loUBUMEVosp7t6vwEgqaPCatQ-2McOpHGc0ZPclR_tL_IYiAAuIu-t6wCvlfCuzqQyPVX6QMqloDvgv11qzuSQTBJA-ywoGMgQ60fXEHs51kuudCjRB630q1qs73fAKONa-6EItif9Oc39ITDHxIQILC5Gh5TxvM-_-_UB1n_RRoUD2CwjnCeqTeiancno8T_7uQOLXc",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "840 Lehigh Station Rd, West Henrietta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.111355,
+               "lng" : -77.67275100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4e690c65774ffcc98d643bff473068a7d62e3088",
+         "name" : "Clover's Clunkers LLC",
+         "reference" : "CoQBdwAAADxAG6y_Vg5-iTwYmfsdibDOuH3vXbWjtori-nNwE0OtRCM3o8tb3AEo4KHbt0095Til3-7WWRGAMD2-53LHi7PKr8L4x2wxD3j0HsH7_d6ia4b9eqgzfm8kAYxjKySfk3LRpSBrHiDmb6MnBBtHdjdEdTBlB3d6oigMSGyKBdiqEhCMIuhTmcwC3zGJuINUo0yFGhSLZqxQQnL74YHy4848ycrQhSG6_Q",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "1415 Scottsville Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.102294,
+               "lng" : -77.62811000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "757cc2f7ecd1a797f427cc225554a0e672cb44ae",
+         "name" : "Cortese Auto Group",
+         "reference" : "CoQBdQAAAM1W8fawMy6x3PNVeF8-tzmFBzdRk-UluTyaizBWrhTUycId23BzB1Xwz4c1aeiVHn8_EyZffOxEfsLuuJQWrf8_TNJa8EuFSlc0W2pZpug8WqwAz6js-a5Up816FxstPF3H-f6B0qzfFuwLDJJzG_puxyWs60K7L2cCPqMUuLDCEhDJpdq9_TC-x3b17TIFeZV8GhRNoUqlcKlRuz-f-WJzJLV3r6fHDQ",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "2452 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.103333,
+               "lng" : -77.626644
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9bf8e8ff23974baa33c3d9b88345b9c842f150e5",
+         "name" : "Cortese Rental",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CnRwAAAAab1b2abKYOQPPVBjZM5V2AjOVPx9F6F24HEg5drGiZyhSpzWbJb4n_e-x3F8xk3svTowGXL0i9ceaMNF9nkwXF51S6Brd_pE6dEGK8_k0Z9YiLg7IIWf7wPEQ_c8Q9JP8GsUFjswpPk8qRKudI9cPBIQYXTlZxH7R1mrHUu0gSIoJRoU5YCpd1oU5VoR9A5sTDzlf6rU_-Q",
+         "types" : [ "car_rental", "establishment" ],
+         "vicinity" : "2400 W Henrietta Rd, Rochester"
+      }
+   ],
+   "status" : "OK"
+}

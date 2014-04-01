@@ -1,0 +1,506 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ClRNAAAAYsRrNHd9kRSWb0ZaqRUon0HnWiQFRfUdbopaT8AqJQNMPmoBJe8ojmFULmmdrVpEHMD-ktsaIxn0RMChe1wDA3m6meiQcFI1r0V9I_ycR1YSEDc8ywAVdL5ujJQYjf7Dl-saFANjO37GM609GkrXRUd3A81XA87x",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.083543,
+               "lng" : -77.627506
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c6f7b89a7d880920c0ef826c978a6ae61cbe52bc",
+         "name" : "Wegmans - Rochester",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBdgAAACH6CpJWrHzNpMRhEtgcTXvMwl8J17uFqo0YBLDn6-XnBH33YLwN8UW_ImZ849cSATZhXuOSaPHdIy3xQXu_ALiqyqPkBmpUcte1yf1kScIjLk-Zt2mErT2gyEOZj8JivR2YbbXxs1epDIZbRsmVef0xwD7MKkCKu3ku7j-x_UOgEhAi7utgbeNma44Mf4GB-nUMGhQfttND7i2kYAueNYw9IjZuoqPeOQ",
+               "width" : 256
+            }
+         ],
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "CoQBdAAAAOfJWtoRtHvOTawjmU625jV47wkLGLWCjGsrSZWxTAqyEtETa71Pvq9lWFfmD-7zd7ZLGqfiLfv76v-9SgVUGgXB2sVCCpPDd4PdkAhFiGqBgI3NGwAVyVn29wdIUJm2sRdlOkMTF8Rhd1qGlhGZhDlzQ3l8w0jXGazpbpsFtONiEhCU_G2AzxSoPH_rYBZf4aR4GhQgvJjZoj88-ET5bxPUUi1vGr9DWQ",
+         "types" : [
+            "pharmacy",
+            "health",
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "650 Hylan Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.080522,
+               "lng" : -77.62267799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b2841fb0d2cd7f2d929395433a327becf2793293",
+         "name" : "Walmart Supercenter",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 271,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAlv8PHx83pr_QQxFEkIaRBKiC7ZJh8PzSHmrtK6c-M_DsKQIotMNDqPSTmtdsRLisZJVNDoFGpQTl1vCjxqiOI2bJMAmwJpoPXzRt232CGEpm-wr9jNGH1VIVRvHzLQTNIQr36x-2ktJPfP2WyZpmGxIQVPz8mBizMqTzyapeTCBSVxoUC0kWFJUKGnw147z6gFvV35QwRqE",
+               "width" : 350
+            }
+         ],
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CoQBdAAAAJcke5ho2KGHZVgLwg0UG80bUgbZCafCQ_dHD0oxCBUoSzJ29VGKrofLE22Ax5oekvvY8Fin6Ok9iDoCxBmHlzwK4uyYx2Da1LX-uhvZXKMtNQZ36ERS9rDqMkNy7gumLYxBgWz0Pm94Ip6gz1aa1GgwXoDgX1r19eRoamB2X_UpEhDX-NnmYVK4TmqJvB2tBNFIGhQPr9AHItZ-XYgxHkua5nFgxCmcjg",
+         "types" : [
+            "department_store",
+            "electronics_store",
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "1200 Marketplace Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.104944,
+               "lng" : -77.61697599999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e26929eeb40630c94aa2a41e21810ef7bb0dc3cf",
+         "name" : "Delmonico's Italian Steakhouse",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "CoQBfwAAAEUcPwOuIq31Q-JO8fHxAJ6f98nXqD7KOBPXK2EKIrrA3SRIBfaHor1fEQtemb5RAkFAsw2f91hUP1t9eJEc1m7m6CtkF258VS5kkAbly1_A8uPX-VZ889CtY1p-oYyvUCUWy2s_x8WtppqhkJfoWoeFQY1Qdk-l9KQK8Be2bQU5EhBIwf5MXrB93gQmYyya9W3eGhTFY7vC7a768DkE5w5P4u-3guAdGg",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "125 White Spruce Blvd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.127564,
+               "lng" : -77.615619
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "fe78026d484599c40583c2690364fd4e92689c4c",
+         "name" : "The Distillery Fine Food & Drink",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASklliLfKjcLvhSJvtGsgl_jrKUudlDK99ep42S0qHoD83n8gvzfA2i9qm8M1cpUU5l8zO9d9WWrd6jVzvZ64WXxFiKt0cEchRjjGR0kpC1ISEyLeI1pZ0qxFLJo_9Rvv-73q8WdQeAhDgCxKH2RFaBIQ893aShx7V4_RYVuC0SpPMBoU1qHfQZlY4My2AFBzXpbwT-WZLuM",
+               "width" : 1280
+            }
+         ],
+         "rating" : 3.8,
+         "reference" : "CpQBggAAAChYKy_evuVwZM-xBDCg7QvgeWlFrHD1ane9ZI6FG8K9ZjhD5X7KBam6CGFIBr2ZLV9VFTWK0Lbj5A0M26FJTFW9m9KGblQHSdu_2x3S2-z1-71Hqd78z_ksT3S52GHDYsBMsIPR8HVkeUadyxgfSFMU5tXYA7Wa0JOaUkIKBl3CfReKb6dLZ7ofa3gALI548hIQK92yvcJWhhQduHD0N35cORoUkS5_CXvi5jarm7NLf7hlwPgUBfY",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "1142 Mt Hope Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.08708,
+               "lng" : -77.63737
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a8a36678d353e1b98a6d4cb0d6c13c4e97456df2",
+         "name" : "Bruegger's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "price_level" : 1,
+         "reference" : "CnRsAAAAfrT-c8AxtDDNj5OVbtDzGr9nLoU65RgAh96qGtSXq0oGHiSVnHwWl9yVGdu8GkRkbxqlS8StqCIyPhSZBfJewaGUb2zk-jr1gdGEErokBOmmprA-hyhoycAOACxGXFGiqURQdEIMDDFpXPJtcpGCchIQZ8UamXtc8r1IiBG2DOeyzBoUu7TnsAzNGQa8P_5J8ImtYRDRs7U",
+         "types" : [ "bakery", "store", "food", "establishment" ],
+         "vicinity" : "3333 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.080673,
+               "lng" : -77.62813800000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d3ad45523d1799faa84743d5e64f34dc982ed575",
+         "name" : "Uno Chicago Grill",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 968,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRwAAAArvb8TOTFF81qS3C52B-0Pk9agENx1j_mu2HEvHCkJztAy8h2cKj8yrw-__48LDWi2762vnRMROjK4wMkSTaI6DUh6qLUxHY97omYQxo1lNHSh-cyOq1JimJP79HHK4moRpqtvhSkMdp8MmtN25OSRBIQ_MNMhfbOk8F4hkWdk1lkxRoUTl55BtFe61oppqq2rXvWJRMoi0I",
+               "width" : 1296
+            }
+         ],
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CoQBcgAAAL5KwHaqA1WTUS_lQop62WXD2rA0Es2vgau8aM3Uh5vFGVN_-gB5mD1dNzfo6aQskVNy_6WT-DxoewXGpN7DwwPvxKgJ35qVZNC9neMNp7x-T37oi7oq-hWbDAwc_2NXOUzXd-eZXcBA6rOPGHB08oy2RHG3eS2ad08kUrOtoHoYEhBVWT2PwbCjjrCLcNT16NM8GhQ9iIFWxjIdWE9vez-_MVVh93KDBw",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1000 Hylan Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.085251,
+               "lng" : -77.62809799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "91786a5a30e388c957204424b705ffae433470c2",
+         "name" : "Panera Bread",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CnRuAAAAY7sjiKVWIXPAARjXrr9Jw1cbGzWtz11txLW09iyub7EPT4hpB7l5fvKAM5qBEl74Jvy_50PFOdEzGEbhKEeJz2ZV4rCRfcvfyXnDoyWF9V72CIUELE1Qr4XfV_vUtGHOpSlykaom1HgnU0mELDWXLxIQQqosK5jXUrHjMopZRhjcHhoUK_ciH42w4vfLl_WB4oxtGxZrtaI",
+         "types" : [
+            "bakery",
+            "store",
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "300 Hylan Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.106454,
+               "lng" : -77.616466
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "8365a520a7051bfd79deb19fb5df4582765cd1a7",
+         "name" : "Crab Shack",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 284,
+               "html_attributions" : [],
+               "photo_reference" : "CnRtAAAARCaqEj0mLNn6MXPrU-t6ltYJgSw1LsAjgegdMLBMAVJhrmEbRsDrzEWoG7kMjI069fXUzpgf0fQL13XHz5WJMh4wAQB91_l9zOKY0DAphCcDo93sMlsPUTOVjVsS_vaN9WxZezWYmA8g0gLJhVU6oBIQm5FEST_w26JEvSgzKtbUqBoUB2_QeGeVCiCeArH6yWvAF9doDeI",
+               "width" : 334
+            }
+         ],
+         "rating" : 4.2,
+         "reference" : "CnRsAAAA5Ag6u3FBtmd1uz4xsiS2rHM1vhyTUhgAgBFyLckehh8856EPBQjRQpJDwyznP1XDmJfjw4d2tDof1dQN8pvPv8VgZwiBdESLBsHzTw9_V4exx5z7iXmK-Lkr8jTGE5-iGHrzij0qyWLzGxeijwSphBIQ_ezOwnIuP1Rxh0vsm9IQgBoU4uZpyrjGfonyNCy2X8oboiu-itQ",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "749 E Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.088113,
+               "lng" : -77.632347
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9d3d7713021759659f9daeb32018ec8f346a4406",
+         "name" : "Olive Garden",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 721,
+               "html_attributions" : [],
+               "photo_reference" : "CnRvAAAAupD1fADu79wRsFLjhEiDJOowDp5LXdp7knYe49NE9vsF82OnMalPGPLxeZOFSvepQ5hkvOqCfN99rDUfuPNaDrTCP4WmD46Lr053i1wJMyw4NB03ZdKXE4mALxSL-evIX_Vf2yZKAgwXCYi5mfAYNxIQ6OquXGj6yJNkuU-_BGirOxoUFh0dOmIn85uPB1ch4XlVNh5G_eI",
+               "width" : 1023
+            }
+         ],
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CnRuAAAAgun4FK3OpEVNfNczChZFGdgFe0JITVzeK31ma7p1J47ggw-q2dyTZN-_AkSBmjcGf1M1ySQKz4QRQd4_Ct3kaqs-0N7KI1h8U4bzTPIfZfunhcy-M9Rn5vS5BfInv-ID8dbIf0ariZsFFyHagfU6yBIQVOUlK-5fhSuadubViay6PBoUJjW5i-tTngzVW4qVHUk-ckaJrgM",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "532 Jefferson Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.088369,
+               "lng" : -77.614772
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "62cc77809e1aabe9e3b9c90d057ea1a8c576b165",
+         "name" : "Lori's Natural Foods Center",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAA7m4vbenzhFrPXKIqw3B_A5ndtq9-HfNUAp1oVB3cKfFJblh0UPiAslngdld22DsIE09oX1pBM9YqSt9Xgv7t0q_lheIMxklxoPCiKnXUGTalkhgyAHcV6_cQXmRzRQtibFl35HMzP7XPxjW39hxsIhIQMdW_DcSJISbZlFdwW6eIdBoUeRkDUg3o5eQ9duVmTojLsCriy1Q",
+               "width" : 3648
+            }
+         ],
+         "rating" : 4,
+         "reference" : "CoQBfQAAAGisE67ULQpbjkX7KI-CTydhcIa3M3nIZbLCRcce29ascOVcWF3W2wz-0-wrBowrPkQE7ypNkCnd-rXVBiYme32sUumLoXEzBOykK2C4-eUKhY7PvuGyTLp4jyQ61Zq4q52csjwZ5DJlAfsdcMv7m72oMb4eRfytmew8I480ZoTnEhCPZJxG1MH54HaEhQhj4LXCGhSIP6ExOHrJo5n-3LU8jA2T4xLfJA",
+         "types" : [ "health", "grocery_or_supermarket", "food", "store", "establishment" ],
+         "vicinity" : "900 Jefferson Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.091217,
+               "lng" : -77.64418999999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ca46e0db5b80c5910cabc18099e1e27a3115bb20",
+         "name" : "Tandoor of India",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 574,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRvAAAAoNeZhViYI7Dhp7-1CbWYJnAoaWtFbgASxUT4krVJ4rwjC5Apjd_ZeKIPganO0QzECpdVMn03m9S9vsfZ_3ocCk8ImUfKqANGiEVIwOaVZTI5JnbxyM7isEik6S6EZWyh_FUVkAqDjEXyKCGy41TlQhIQpcEttUPp1eMHwdNn_AdeZRoUYC2au1wNFMiq7KnibFSGheGg_X4",
+               "width" : 709
+            }
+         ],
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CoQBcgAAAOaHtIWABka9aANHeCijnJoRU2_xP1cKykLpADRGcJj6O5fG_vexinHnjer1c0s-FoP7BgPJ5Al7RCFPg_qndmc_j4lDQvFaUd7x9sdyJwNIpIhgqTxCsMBU6rdfCsiGJFnuUyEp66BQLXrwh3p0UvrOjf0wDlochYfNk03PJG9CEhCyFp1mR0WJBjjw9JcZ-udnGhR6TBc22DfJ2bvuWzHFZ1E2i6ak0Q",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "376 Jefferson Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.087682,
+               "lng" : -77.615106
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "755bd21c306053ac5d51907a608c65c454229fe5",
+         "name" : "Sticky Lips BBQ Juke Joint",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAsWXLzc5jpVqw4Owpc_rQSIT2f9HnU-OeYXJyK1V0m_t7VRKKqKIi49uRJyibYDl3iBoIIv7PnHanqKHPKE83xU6J30ou9Dx5PomUNWAyVuhYgHdaPcNjJGMBcRFkDG1aQR-ETGUpbHbGWM3C5QQJGhIQugVPBCpia48v3SoYcowzihoUDwOaygJbjlntopN9NPymqhNNIOM",
+               "width" : 486
+            }
+         ],
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CoQBewAAAGCv01UUsw_H9z0keD-CYZJPXKw4Pd1rLBHw5hNCPV2PSMCNRcvmpcxzmGbWyporC8GsIXFNdN5zqjhsZXHxjyCSNGAGw0LhB7gOTlo-HKLxCpmFhfSxAoSNxjcGNHwgW2HgO_Wev_qxPd8OHwwJ7zfN6_yhSFtEPwpj81UQ94vPEhDaebKcrB9gUEpyGUNRS3YOGhSrIYO1CqmYGiwYyXtSE9ydWyrsjQ",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "830 Jefferson Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.106432,
+               "lng" : -77.618718
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "435a30ac4d7f546c5d66e6b1a8f39f8c90619ff6",
+         "name" : "Phillips European Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBfQAAALZXWD115aoSfQJzti9KKsIOXPcrUyvmIUvYlI_xWdl1Zb0qyUMTrGjZktPzpsrpw_mm4M29ACC4CwAfsHctH7dApem6vYQcMmz7RIbHGTuJJ-qHXdlzLFJk1JN6oGw4HM3HlyJvDZ9BbOo-DHxBvM9PkIrdl91QWDZUAKgBEYxjEhB2OJaLhQ6usMtiAYoE-3BGGhTE3lC1Jd8afmes9qB3SzmwChCueA",
+         "types" : [ "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "26 Corporate Woods, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.08673,
+               "lng" : -77.616811
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4bd22d454f1dcdbd8147dc76d3dc5b5b16d5a469",
+         "name" : "Bugaboo Creek Steak House",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CoQBegAAAKElGPU8uxUdDK3u6paxTbm3yJDBo9uhPtsoJWQkQ2BlsZaKoMDbNdo04Qhkt8dwSju2-OuuluSz-2VTQUgYF0PFA_rnN7mLaqrac_phIGEkojZCPYeGhpBCxMovEHGy72QQh8XH1Sp26Kgc7kEd-5OErsT-rec9fifaYMxLgEU7EhCL2bn4pZxFU7IIHIyEyQCDGhTaifGnhOugahYUnL3Ch1_F5d1NfQ",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "935 Jefferson Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.086547,
+               "lng" : -77.62519899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ff755497899d646a1e79a400d1d1c67e14c89f08",
+         "name" : "Red Lobster",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 120,
+               "html_attributions" : [],
+               "photo_reference" : "CnRtAAAAM6RiWBIuwmDdEW1NlHcIY_HscgI2lkms2lVMZlrA5Ef3tfKIVrNjZq46S5IXiABfKjczIs6bHkpic5kdXLrjXz-LagIgiwKO9KrpVNA4sVi13BLgfWYKpDvQMZkoItdvhUklf0_Xqe8Pcxh38oz2axIQoZkdRDSx7o49kdIP0B6beBoU0jt0P-k3kpeHh2glMvJoybK9I3M",
+               "width" : 289
+            }
+         ],
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CnRsAAAAZgUnGkbnPYBc6Pq3RPWcXuNEvBX0knNl6X7lpf6skX-5GppDgqPWH9s_Mhecv2EwQJ4b2Yv5XHiUc1ue6-HDVgqea7IVRc1dhs7BcNzO2bpLhoo3naFbpfj_iycz3Q0wGZRlNNZtBsFNkwtHSBhoRxIQ0Gofam5t9CxgHxn0kVNwFBoUBgSWhp2PjLNNqCZbAxYHd9oHOtY",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "655 W Jefferson Rd, Henrietta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.09358,
+               "lng" : -77.632729
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bb9e2a1227d59862b90514cdd514b7f144d71b35",
+         "name" : "Shanghai Chinese Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "rating" : 3.6,
+         "reference" : "CoQBfAAAADyFPvjXIxn3dilY5SYewj8-sEA4BBnWZf7ThwsACl8CpUqqTm-3nSjcG6zUSpUHvXcPB4i0oTtRdNfYfvPJvaQ9VdaJ3npONbie5x3Ws688NLWmMTdQB9gxgXl8Kt5rrj9o1MB7Y52FydqcIFSd-y4NigIkKf0pBId61xdEk2goEhAYbsZwpMg0jlnDu-U0JWyxGhTWKe5c0rulwhdganQjimPluxqang",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "2920 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.09273,
+               "lng" : -77.63285500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a2aede5592b4f5779e6d04a3ef2d2312dd089cb9",
+         "name" : "Delta Sonic Car Wash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "rating" : 3.2,
+         "reference" : "CoQBdgAAAErSnqZF3yTJkcEO9jrrIDy5Bl9pTlosN7Mq02ZK-32mdH0HOgr_PT3QcdE4ORiB_8PRym1NmvSw-kgHo9ze40vYfrtyCPSn-0eJZJdncUPk4Xr6drFWJrbIhBSPj1SMBtPxL8xPaxplkv-CrzCxO0EaAMXWlCKnWSAhy8cLB9HvEhAcu4Nf-M30JK_Ot7QuiTOmGhQej3Iob371aixHDzqppkX6JRfSGw",
+         "types" : [
+            "convenience_store",
+            "food",
+            "store",
+            "car_wash",
+            "gas_station",
+            "establishment"
+         ],
+         "vicinity" : "2970 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.08767,
+               "lng" : -77.617678
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "6aa9d0592d6dc03e2725806b22fea00f22f18348",
+         "name" : "Buffalo Wild Wings",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CoQBdAAAADDBENCB0vYSzv8TLJbiJPRLKZY8ouN2qUuR1r_-UlU96UgFgvf8ooq4FB8XLKZwRWmDe6FUk_NIHfnhP3EOlTvBPXTKiFIsLAsTvK6i7cVtPZmqAhYnvEcwjTtrbQOaSlkMCflRjqyQBtcd7ICUX9vSfUpw5Mm51x-4t_YPjy93EhAkeIdVZglk29r-rCOw5BnAGhRsj9DRUnrRmTgBNmOhW1hptl5oyA",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "780 Jefferson Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.058332,
+               "lng" : -77.65210500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d139970d1287a53fc95d7f9a01730a5c22dda976",
+         "name" : "Tim Hortons Donuts",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAxNZafR0oAJD5gikBq_PYaVrb6GUevlUMvoWUzyQ1yhWOBMruEmnQgUlu-TTT-nDVU83xgMsBU-QKL6gRxjZP_-QFkt3T_Q_0t-At8Q8LCAB9A2S3wSXuuLueiG6Z4WGYus_crh0gUr_9SdXFfzqFwhIQ5DATrjTFWHBUbWdSmsS_nxoUVJEjU64VbvchDf9HfAPuMMLVeDg",
+               "width" : 900
+            }
+         ],
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CoQBcwAAAJmSF0n50N7y1IJFKdrRm3k7Xj9BWUHJ5tmy-fMpSvaB9eTbd2-gi_4Vu6L6VRnI4MWATmYHdOoiSVB-mUNpJagKNhdjdP08Bk0G-wBNLazWBkAM_Asv4Tn1R5m58T6KRNph2pBVW5WkHBx3VlY8G-bLtq8Ud8K0CLizRLvnm07DEhATd3DlJfSVUhmtMry9fx9KGhQI-z7DHE99JI-zsqa5VcUxx-nysA",
+         "types" : [ "store", "cafe", "food", "establishment" ],
+         "vicinity" : "4760 W Henrietta Rd, Henrietta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.12343,
+               "lng" : -77.61788900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cb6dd29fb00d5ccec5416c2ca2cc6d1ed9d109fe",
+         "name" : "Chipotle Mexican Grill",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 113,
+               "html_attributions" : [],
+               "photo_reference" : "CoQBeQAAAIe_E6FWTPuDTtex40gh5iTEWd8bLY6MaZ1hhtoJzuIdemISGoKWL1FASY331GdMVj1pr-83ugfJuyGYD_943l9aqTEQ73Lt-Bdf5Fx8YrdXE327ghJ5glMqq-GPJRK8Rx-cHjEbL5pnTbUwKjpIOd__MBST9m8JCV8XQdGgEmMQEhB3gS8NxAPTgZqXcPAKQPlqGhS_1iwwlfofAv5shTouVH8i3oCLfQ",
+               "width" : 113
+            }
+         ],
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CoQBeAAAACRKjgRoBVYcxxDPScQYL3N8tWXjpYOPv8raRquFe-KqwjN8KKxnU_ZE4to77lk54w25vfvj4CBoxJUcLe7In4jsTpscm6ABFOWkPKeMcyjUe3dluAKVOdl-_lAL5ZW4CLuPu8u6wDUx302-XiJUqU6Kh1Wy934DMQl-CRhR5xnLEhAQsJJkHG6WAcZGGybkKVPeGhTA6l4IprQx4f5QUt3vuyuX0GOwpg",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "1360 Mt Hope Ave, Rochester"
+      }
+   ],
+   "status" : "OK"
+}

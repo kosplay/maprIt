@@ -1,0 +1,365 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ClRNAAAAc2KOv4GRdE3GbTzBd1dCHt2sJNnnoIYXIbePi03zx-VcZJhak1zD5olSMx4AtXZe8p0sK1V9_IJssh8NINJNMtUy5PJMUWWjnFq8nWmLFSYSEP4xPt1DqZ6IkdMqL6_A2KoaFGIJIWq0uJ8_YGnQTpouFBbWWgxJ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.088847,
+               "lng" : -77.641249
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "909dee0a4fe7b1cfb9305c3711074c3edd299c21",
+         "name" : "KeyBank",
+         "reference" : "CnRqAAAA6TOOeMQgaht0HGv_3IxyOEwqKHdWkZc8ALo0obNMajodSAsSSBC0Qqi1Qhk8lYdCodPR_drBfCsJkhR3IfQUESZHqqnUn0DLF4Yp1Gku-ad7aNcKUH-DxYBp27I3sI1LPqa2KN6Vz9dZisQWf1snjRIQruJoF4WPf7SDdguoac_i_xoUVvIO2ncLTqkwYVRusK9Kycl6uk4",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "3333 W Henrietta Rd, Henrietta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.088109,
+               "lng" : -77.644375
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d6fdf4d612934714012c1da669a0db865a2008b4",
+         "name" : "Bank of America",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRoAAAAtEixv_qcS-JnFzhUlUHvP6AgoS3E7UbiwqMZg1_o4eU9C4cnfuBxjvr9luGwEIInZz6aeTF_kurd6MjmFaPvbjisiATfuINcst8CDitT4yvSx0cx0UFBhln0kEFCkYC1g9T_7Bc3p0looZKM_e57rRIQfSyyU3esMJasrevtUBhNZhoUDC-FHVcYvtri5DPW755zuqabIW4",
+               "width" : 1632
+            }
+         ],
+         "reference" : "CoQBcgAAAG_sdWxpn3RpyR5YqBv1RnSJ5NfIQTYhLo-eLag3-_8VqXKJ1gaqpArA-ocZH433XfBe76F8wFBQecqrhudhygUzWzGwqTsW2qashsVaKSghpMm6TrpcuHa552Tb1ezl8uJ1Vkef3Je5m6V_YK5VizKPCWxnrPkU13RJTsa1_tRhEhB45stXkQLWShPpZxWmKCUiGhThqcr1Znj7P_7-UzgJjoIfQTIhow",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "3333 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.122775,
+               "lng" : -77.62644899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ba3adb7642053c4ea4e3d5ec3daf195eacee61a0",
+         "name" : "Chase Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 256,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAvwLcEhOANFTMpTtXMoO65O0Vl0hUK-C4d3wZaz2FrU_Z6vVCVhEel1fgEaHjO9gYhEmxzevPUZrRV3HtaZSRnfRAWiWTmRBvUhOtMI5i6SDO-woKm5z7IFi-seDF7B8NE2No7C-GQHzJxN--Hvi6KhIQq_AaQc6ye_-0gfNHUlPqiBoUAqJa4PTre9bdH-Lzo150VlD8ghY",
+               "width" : 256
+            }
+         ],
+         "reference" : "CnRtAAAALGd6oS6ti1WdeR_a06ipqX_m6Yoaspi10alsheMhKXkkFOeaR8f-CdYHcyhnpHfqT8igZPIdJhOcjNpM7OpsCnfX2MKU3o7kPnhdlCrlVqV9tLx9G7SW88zAdsQYwgbiphVZk13o8QkqGrauJKPRwhIQWDbUSXVyDH-b5jUpiyfJtBoUzRfdQQ0qMOuehisqbjpz9QVE5lA",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "260 Crittenden Blvd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.118252,
+               "lng" : -77.620904
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e2d88cf9d189b5d1295c4e6bb15e267054274fe0",
+         "name" : "Advantage Federal Credit Union",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1063,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVt9y_m8buMb4PTJHOT2MYl14B9Az8FkfTEQs3gaqD1ZtBkWbdXxMslx1F8i7M6gApZGYOItzdrvl7ZVLwic55YiEN1kAUjZH42pF3ckyEmMLAf9WmMTASKUhpZ6_4rNcRJ9YsvEG3PTnfKYWEPSewRIQZBhxv3O2xve5ScNzSKDcFxoUdwGAb1YeAEFyQIBeRf_8xUYYLMg",
+               "width" : 1376
+            }
+         ],
+         "reference" : "CpQBgQAAAGk2I_nHOCVck7eO2CkMqylPxyTf5x1jGEwusTuea8UYM58eRfnxxwhB__qzNshLmbhgenzwF2aeuTZGoRN1etgfZ6TN1K6jm74ZLU0QO3498CBqXQPTA7HkJsDC6SFogpMr4t9K8zhkhUnN1Tc5wyzC0YUIuuQTPoqFvdotw40a_RfvtuKr15CUQ6Vi1A4nBhIQ2YPk-abLgJHv60KGppljZRoUszMjdVuxvF5L9f208idr8nR0_-0",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "1625 Mt Hope Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.080798,
+               "lng" : -77.634417
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d0beac42086b1b696a36c4a52ff82dde0edef78f",
+         "name" : "M&T Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CnRrAAAAeHl5xo3B55fREApbhB7aufdbVPfm-4OPQue3Fc9B9EMBMg4wK7qEh83GPdVVLJUu6AmWgBHh_IiE1oeBvHitjoQZTHWfY7YWlfSF3DLStWbUMJ6QBsueLflL7L91jH6YE_Plc05uWAQWMcKdk5wCKhIQjosbW_LP62KSn_kx_5nEuBoUEa65e_kte0lcxK49yi0zcGmS6WE",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "1400 Miracle Mile Dr, Town of Henrietta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.110458,
+               "lng" : -77.62417000000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "77144f5951a2c899a234289f1487261b267ddefd",
+         "name" : "Rochester Area State Employees Federal Credit Union",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CqQBlwAAAJkh4fWqheI5FqKKH4kYEpnPA7i_7OI0cxIMFaEz963tVrHJ-jUhmXup2-MlCi1vu5z-Bt07j4-JoMbf99V_-bqqxo69CkkC4RUXUU1-UzLNVQGg4aIG1v5TCReL5SmtzWCmNaX_Yt7CRvxM_8omR7gX6fV8MnU4CCGQv_zzphC8meTcfsvDPL19x01SPRqdNOyS3bpfW9BAT6z8s5kg3hkSEIcWJjAu9paJYiriUzzvD84aFCIdTnR0UY28BcXLN9UO3m_No11n",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "2024 W Henrietta Rd #5L, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.121317,
+               "lng" : -77.619697
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7b8ba06e80f501e1be8ee3cb476cc29a97b4f8f9",
+         "name" : "KeyBank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CnRqAAAAYY8zbJJnFlyANQGeOcjh8PbH2BpnYKsT5scpfV0kzOovFZpCvjp0vA441DoU4ftYxpSw-rwupobZlBxiphZ4IAQ38vF9Fl4tLhWsSOBvW-LbZvX8uWd0OPTNrrEpjAdmXZwrLc1GPhe7Aapt1sQIiBIQoRowmbGvzRCOth64192rWhoU2TsrXoqE3BocRRl70TNMNhdN2ec",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "1475 Mt Hope Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.114108,
+               "lng" : -77.732781
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3525836c62a0b789af08f901fe72444017de2b93",
+         "name" : "St Pius X Church Federal Credit Union",
+         "reference" : "CpQBhwAAAH_HCaRJRvxh9LcMjbnkBE3PXKRz5jUQiCjICQbT0dFuhqTUOCmmWJcExA01dVGHY_vcJiZNmVptgDeKhZw3d-dS8ioB3D1DxUw_iJz2E9U_W6QktqiuPMNkMVHDTYYuCfLX5clgELuoR38pcT0MU8UtQjUy_ew829cg5UH-bPDwLYyeOcrEhRqF_t57sTsh2RIQ1Eb10GuujISZUWAXMm9vcxoUTeEtNYhT78i5m-bgCU8nUL-T_bg",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "2998 Chili Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.086445,
+               "lng" : -77.62881899999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "06c2cd9c5310a3e2afb604f2b51ca086d4725f9e",
+         "name" : "Citizens Bank - Rochester",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRwAAAAfD2rUskkQQpkUOp8Ui1e80v2OQ31kdxmQLDXY-4HbsMoP5Csfo6bzwJdYisJ3x9UpX771Q7AMnEU69x_PCv-U0hM_U7LKBIl7barlgqL6FiTEibA7xHR799WfAmpqlmTld45FPOng6-qWgWHGbNmMxIQ3-o6wCXlIQCyYS0SQVf98RoUSrgRnfqxnuQCidOvuEFhSEa74sI",
+               "width" : 600
+            }
+         ],
+         "reference" : "CoQBewAAAO3dtrUPjJvvmfAvJCNVyBVJbWkfJ0vBv2Gnptl3nerPYz7Cmqiu05ZWOGDEgD-22Dwc85C-fOd2pXVhUulcIL_jkL_tjOEmgVGupEFp0NyAbGJCYGhvzQGcQg8hpjYQ2OKCZiNGosCoVeyejGMHqIX8InVAnJgMhgr1q_fFOSvsEhDeWfXzGfzsBabIGhfWIMeXGhQfvXZqx8TxzzInKs-vztcQbnr5vA",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "589 Jefferson Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.091824,
+               "lng" : -77.657825
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9e7799732a24bdfd7dbc10e4122cf4e6ba5ec55e",
+         "name" : "M&T Bank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "reference" : "CnRqAAAAfe4UJt1oBNoRTQovrplE9uGNcHORKNdk4ioU-MwDk4SYoGqr5vQd-TN6qeVqZXymbG1s8jL9qmLIBIlKZcyjK0y2v8aacg5iSH_5knAeWvx4au7RqFSABjcoaeyDBglXplDFtoVXI3uthNcAOMyAMRIQyNH0DeO9uRWTKQfz0PaDERoUp9T5HPWtOzrkrJZHvODWss9LXOo",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "300 Park Point Drive, Suite 105, Henrietta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.078081,
+               "lng" : -77.631547
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "95626639fb6633d0a9ba0b64ecf2d2fb73fa5ab5",
+         "name" : "Cardtronics ATM",
+         "reference" : "CoQBcgAAAHxH92-CiX71ywTYq6ZoUDcr5-Gbb86vIxcOkUWmMgathaNNFyZO9RBoNZCIsEX51ohhFvxA71tl2KH-EfvxrPjk_jWE-Lh-M0_5aBLjFBJCLqYEeth4h-jwyvjwWvs66x7C_TAUH31h1N2spuQc59bzuiZA1h6NK1p9AgdE9jmbEhDJ3GnfEQ7JR_38V_7e5IoPGhRW3gozbNeE0bS6lffXFSWbau6ujw",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "2325 Marketplace Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.082628,
+               "lng" : -77.68079299999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "093b9383afac776442993c71cc3f81ac02fc89e7",
+         "name" : "Advantage Federal Credit Union",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 816,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CpQBggAAAEjNfbkOqq_EQGAelcpmf1dRs0u3C6mvVtD9-ByGuRD52EymhmAKn8A9gBCHadoE7dWbFGjTygE6cUQLyYO0Ig4G3FMq374IIZf7NmThyg_jq8KDhBUQnplr1i9_44LsDV5WUn6atVNmHgfK8HQamKQ_DW2q_nnUtwVspIIIHZqePK3RVXp9IOT14891RipXWRIQyj8vO0FRx3JH6JN6RKF4LhoUqoOxmXlzyWVTqej5vpV9KgTFmAs",
+               "width" : 612
+            }
+         ],
+         "reference" : "CoQBgAAAAPREK_HZZkcylKn6S6yeQzXRfkLo3D95BOoPj0a3cw-gZvQALrsdcFKgxuhRoKEPQ-AB3W1nbokmiMYY5TYIH0D-Y0uF7d-tvrbjtfCYBUNb2omcDOmdEZwFC52sVTADQudmrXKKd6o_S2ihHtSvdC8oOUDoBI2Mi5gjPo5ScGlREhDQyEAWdnEnDaJ29ufLEKfFGhQuMNFMLvmwd89xLbOYJ-anB_jw8g",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "38 Lomb Memorial Dr, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.067561,
+               "lng" : -77.668871
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b8b67cb78cb5745a150cfd4123a1d5c5733e1b00",
+         "name" : "GRS Employees Credit Union",
+         "reference" : "CoQBfAAAAF2Pp0FxWOAQ_MBdPL6nf4D8CCuPCPlvU9E6PjhCJZFoTNM2_vpLBxyCamWYogMyEKvnxD9Afxi8z5BS5R4gi6BsVZZM_haGDxEo8YXZ3rcMhR5uKiXXWxoSMvm3jWGix1VCpqypBj857TH5sbB-NMVa0F90QTfGylvVQzetYGj9EhB93V0pY5o_T-vebFdWtgwCGhREhz1_DVDZKmsVBFwbromewgVp_A",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "1025 John St, West Henrietta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.093399,
+               "lng" : -77.65759199999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "408a9768b7c8fa56b8c9d3ab0b758efa6cb72a42",
+         "name" : "Cardtronics ATM",
+         "reference" : "CoQBcQAAABo22JKoRjdQySZUspP8dEqpP2AxLRL8CBWsjUnxQohkd3JbJ0YFl1cPzFABQ3aCUc-WPlsAdBvu3z1jzFQmitR-bVTNM2BxXyRMeyLSLSjx72WVuGV_8eUvguvvBa47srHTXXxZpPjTTU4gHiSsi16N4Q8OgAbKYwiUH-MikSKTEhDYWVausDGKX7Aio3JVLTXUGhRTkEqOWLauJAA2ipWQSO2FGm0zBg",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "222 Jefferson Rd, Brighton"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.09843,
+               "lng" : -77.61815900000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "38c2dbd9e429b8901130f9ce2c8dfebb332e5d66",
+         "name" : "Northeast ATM & Bank Equipment",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "reference" : "CoQBgAAAAOlfChqKU4ppzjRQXfbsL2Fhll4Csd3SsyP-i2DnrGkMkLu_EWnb6SQiBlJqWiq0Qs1zWi2EmuwSkFBJTSKdnVim5P7nBF3JBUNDAnZ7S3HON9sYhXY3lyh0ru_axJRvxYSQMLXuWdwsAXuxOiPkCV1pJmnfWiOHRrWR3mACwGVMEhDrvYyEk_iQOEfzEv7r83NMGhTwXRv6PPoSamUGVYgkZ7RFt9D18Q",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "144 Metro Park, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.10033,
+               "lng" : -77.629425
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d5d0e4c83a45c661e36a8a2e2825e88bd9a69c60",
+         "name" : "Cardtronics ATM (inside the Brandanis Pizza)",
+         "reference" : "CpQBjgAAABF8oDnDgXm2CYpmoFwKQkwiRcecgfWMFNyYtcDsIc1x536-TF1WRGf1iqfG20ch_Pau5_jR5ycwnEzy9Qh8qwjX4i3F8UlLZP9Isp9VG3_dwJ5KxBx7eICVAjwYsDt-0FJYAPK0wvoUloh2hoHLrSbHcFrCFRfj2NWbbI9E193o4kavxHiOIlorF8nh-kT4xxIQ0MxqJdnN-H6Ok0dGTD12yxoUSiLhefMI7njxGpQmyfC0v0yiV_Y",
+         "types" : [ "bank", "finance", "establishment" ],
+         "vicinity" : "2595 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.103333,
+               "lng" : -77.626644
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0b80cae034ca336f474042909021b21ea220603c",
+         "name" : "Cardtronics ATM",
+         "reference" : "CoQBcgAAAAZBlLdA4WSaEm-SMGQNnwvbZK1iACeo9yI6ibsdgNGByFKMf49krdb2Dh96ps7tzY410ncaKRM2E0uGIMB37WiNEx5Pv4MYdJ1PpmeZVqR1k17XQooRqNg_KP4hDvDU1zcX-adIgFVHedhsjO0xxOsn8umVG-PvXz24vyB3sGsuEhC9pNxrPH1n3v1AyUbCW3sBGhQ5xYm7aK98leDQP3qaDNy9F6y0KA",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "2400 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.082566,
+               "lng" : -77.639752
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a1e525843d0cfcf13a7b7b3fd48f7b47b95f5324",
+         "name" : "Accel ATM & Merchant Services",
+         "reference" : "CoQBfwAAAGWhDTfsicrgbMT7M5F0a6cMbXWbJpkMrKtQwky0LOynbX370RQ-H1xF44Bgk7UYf6EikGcouhoHi5o9PzJYzpIZTw3BKwCtNsb-s2-l6X4d6XOjFA3pTZvLZHRcBDWiiU6rRiQX3jWW7lROiMV-w18M25K_e06xMKyLmRMZ3KdGEhCNnB5GUQapxBZq8mC9ZCDjGhTcxRHzNEV3zPpynyjmlWTq_9i9Zg",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "3553 W Henrietta Rd, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.121317,
+               "lng" : -77.619697
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e69d82a82e1f7d1ab3fc1545fd60f1a3fbde6dea",
+         "name" : "ATM (Mt Hope Mobil)",
+         "reference" : "CoQBdgAAAN5oaKbTEo9JbKFNxZqtWFYetMBbahxWkYc0ZC1wUsqeEG_Tu7TOPbxKfzkSRTx-y_ulgQnRwTc1_R1XdUQOPPRiWxKfOKfSrXUbp1W7eTvraxh7bHhif56DInXqV5dRTj38-LQIGPrBUGSFEd3LoIa9qnbBPKVuWWHeUMltcj-LEhDWLbI6fRFrsc3LPG2bHzmmGhQnDswRI9fRd0jH4SQuGO7os_DAQw",
+         "types" : [ "atm", "bank", "finance", "establishment" ],
+         "vicinity" : "1475 Mt Hope Ave, Rochester"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.089764,
+               "lng" : -77.63582100000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "eb968b50309516af9bc94c3db40d8ce09c2951c4",
+         "name" : "ATM (Kwik Fill)",
+         "reference" : "CoQBcQAAAGbn45bPFlvahec-8BgYnVk65JHFvKcXf8Jri7ZdKd_CfF26WlZHigsT3ImMCQDgEypjZRFpvte7lR-xjfYZ2AB_D9z7JfCbE0a_CuEkpRzz7QXnbqqxRBqtTWHZ9_V8t98qfhtqDNnQI7R5LgfdZv51QHa_Mj6j4f2elaZiKSwUEhBmF7ifhhMtAtnQJyz2TxYqGhRHqTr_eX2uuuWGFEzzgvstDei81w",
+         "types" : [
+            "convenience_store",
+            "atm",
+            "food",
+            "store",
+            "bank",
+            "finance",
+            "establishment"
+         ],
+         "vicinity" : "3093 W Henrietta Rd, Rochester"
+      }
+   ],
+   "status" : "OK"
+}
