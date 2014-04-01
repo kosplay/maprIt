@@ -11,7 +11,6 @@
 	<script src="http://people.rit.edu/yxs9493/api/jquery-1.11.0.min.js"></script>
     <script src="http://www.ist.rit.edu/~jxs/classes/2014_Spring/Mobile/OpenLayers-2.13.1/OpenLayers.js" type="text/javascript"></script>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
-	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>//use Google Places API
     <script type="text/javascript">
 		var openStreet = new Object();
 		openStreet.map = null;
@@ -23,7 +22,7 @@
         var toProjection   = new OpenLayers.Projection( "EPSG:900913" ); // to Spherical Mercator Projection
         var position       = new OpenLayers.LonLat( -77.68,43.08 ).transform( fromProjection, toProjection );
         /* var position       = new OpenLayers.LonLat( 13.41,52.52 ).transform( fromProjection, toProjection ); */
-        var zoom           = 15; 
+        var zoom           = 13; //g
         openStreet.map.addLayer( mapnik );
         openStreet.map.setCenter( position, zoom );
       }
@@ -31,7 +30,7 @@
   </head>
   <body onload="init();">
     <header>
-		<input type="button" value="Food" onclick="showMarker()" />
+		<input type="button" value="Food" onclick="loadXML('food.xml')" />
 		<input type="button" value="Shopping" onclick="" />
 		<input type="button" value="Gas Station" onclick="" />
 		<input type="button" value="Car rental" onclick="" />
@@ -64,10 +63,12 @@
 				//$(this).addClass('active');
 			});
 			
+			//loadXML('food.xml');
 		});
 	
 		function loadXML(filename)
 		{
+			alert(filename);
 			var xmlHTTP = new XMLHttpRequest();
 			try
 			{
@@ -80,7 +81,39 @@
 			}
 
 			var response=xmlHTTP.responseText;
-			console.log(response);
+			//console.log(response);
+			var obj = JSON.parse(response);
+			if(obj){
+				zero = obj.status;
+				obj = obj.results;
+				if( obj && zero.toUpperCase()!="ZERO_RESULTS" ){
+					processPoints(obj);
+				}
+			}else{
+				alert('can\'t process an empty JSON');
+			}
+		}
+
+		function processPoints(obj){
+			//layer for the markers
+			//var markerLayer = new OpenLayers.Layer.Markers("Markers");
+			var markerLayer = new OpenLayers.Layer.Vectors("Overlay");
+
+			var fromProjection = new OpenLayers.Projection( "EPSG:4326" );   // Transform from WGS 1984
+        	var toProjection   = new OpenLayers.Projection( "EPSG:900913" ); // to Spherical Mercator Projection
+
+			for(var i=0;i<obj.length;i++){
+				//console.log(obj[i]);
+
+				//var lonlat = new OpenLayers.LonLat(obj[i].geometry.location.lng, obj[i].geometry.location.lat).transform(fromProjection, toProjection);
+				var lonlat = new OpenLayers.Geometry.Point(obj[i].geometry.location.lng, obj[i].geometry.location.lat).transform(fromProjection, toProjection);
+				//markerLayer.addMarker(new OpenLayers.Marker(lonlat, icon));
+				var feature = new OpenLayers.Feature.Vector(lonlat);
+				markerLayer.addFeatures(feature);
+			}
+			console.log(markerLayer);
+			alert(markerLayer.length);
+			openStreet.map.addLayer(markerLayer);
 		}
 		
 		function showSidebar(){
